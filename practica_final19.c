@@ -6,6 +6,7 @@
 #include <sys.wait.h>
 #include <string.h>
 #include <pthread.h>
+#include <stdbool.h>
 
 
 /*Declaracion de las variables globales*/
